@@ -1,2 +1,4 @@
 # SBS_DTP_ReproducibleRes
-A repository for training about reproducible research
+## 2022-05-16
+A repository for training about reproducible research for the DTP course
+
